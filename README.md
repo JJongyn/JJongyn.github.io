@@ -4,8 +4,11 @@
 Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and Electronic Engineering at Kookmin University, I am currently pursuing a Master's degree in Computer Science with a focus on Artificial Intelligence at the same university. My research interests lie in Parameter Efficient Fine-Tuning (PEFT), Meta-Learning, Unlearning, and Model Compression, with a particular focus on efficiently utilizing large AI models and applying them to real-world problems. I am passionate about creating innovative value through new discoveries, and I aspire to contribute to bringing meaningful changes through AI by researching cutting-edge technology trends and exploring creative approaches.
   
 ## 🎓 Education
-- **M.Sc.**, Artificial Intelligence, Department of Computer Science and Engineering | Kookmin University (Mar 2023 - Feb 2025)
-- **B.Sc.**, Department of Electrical and Electronic Engineering | Kookmin University (Mar 2017 - Aug 2022)
+* **M.Sc.**, Artificial Intelligence, Department of Computer Science and Engineering | Kookmin University (Mar 2023 - Feb 2025)
+
+* **B.Sc.**, Department of Electrical and Electronic Engineering | Kookmin University (Mar 2017 - Aug 2022)
+  * Overall GPA: **4.22**/4.5
+  * Major GPA: **4.39**/4.5
 
 ## 📜 Publications
 ### International Conferences
@@ -24,6 +27,18 @@ Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and E
 
 ### International Journal
 1. S. An, **J. Shin**, and J. Kim, "Quantization-aware training with dynamic and static pruning," in Institute of Electrical and Electronics Engineers (IEEE Access), 2024 (_Under Review_)
+
+## 🏆 Awards
+* Best Graduate Student Thesis-Based IP Creation Award 🏆, Kookmin University (Aug 2024)
+
+* International Collegiate EV Autonomous Driving Competition 🥇, International e-Mobility Expo, World Council for e-Mobility (May 2024)
+
+* Outstanding Graduate Award, Department of Electronic Engineering 🥇, Kookmin University (Aug 2022)
+
+* Kookmin University Achievement Award 🏆, Kookmin University (Aug 2022)
+
+* Autonomous Video Object Detection Contest 🥇, Ministry of Trade, Industry and Energy & Korea Automotive Research Institute (Dec 2021)
+
 
 ## 📞 Contact
 
