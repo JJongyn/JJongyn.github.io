@@ -1,4 +1,4 @@
-# Hi, I'am Jongyun 
+# Hi, I am Jongyun 
 
 #### Summary: 
 Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and Electronic Engineering at Kookmin University, I am currently pursuing a Master's degree in Computer Science with a focus on Artificial Intelligence at the same university. My research interests lie in Parameter Efficient Fine-Tuning (PEFT), Meta-Learning, Unlearning, and Model Compression, with a particular focus on efficiently utilizing large AI models and applying them to real-world problems. I am passionate about creating innovative value through new discoveries, and I aspire to contribute to bringing meaningful changes through AI by researching cutting-edge technology trends and exploring creative approaches.
