@@ -8,6 +8,8 @@ Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and E
 - **B.Sc.**, Department of Electrical and Electronic Engineering | Kookmin University (Mar 2017 - Aug 2022)
 
 ## 📜 Publications
+### International Conferences
+
 1. **J. Shin**, S. Han, and J. Kim, ["Cooperative meta-learning with gradient augmentation,"](https://arxiv.org/abs/2406.04639) in Uncertainty in Artificial Intelligence (UAI - acceptance rate of 27%). PMLR, 2024 [[paper]](https://arxiv.org/abs/2406.04639) [[code]](https://github.com/JJongyn/CML)
 
 2. **J. Shin**, H. Lee, and J. Kim, "Context-based prompt tuning for pretrained language model via test-time adaptation," in the International Conference on Computational Linguistics (COLING), 2025 (Under Review)
