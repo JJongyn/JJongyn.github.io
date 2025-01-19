@@ -28,8 +28,8 @@ Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and E
 ### International Journal
 1. S. An, **J. Shin**, and J. Kim, "Quantization-aware training with dynamic and static pruning," in Institute of Electrical and Electronics Engineers (IEEE Access), 2024 (_Under Review_)
 
-## 🏆 Awards
-* Best Graduate Student Thesis-Based IP Creation Award 🏆, Kookmin University (Aug 2024)
+## Awards
+* Best Graduate Student Thesis-Based IP Creation Award, Kookmin University (Aug 2024)
 
 * International Collegiate EV Autonomous Driving Competition 🥇, International e-Mobility Expo, World Council for e-Mobility (May 2024)
 
