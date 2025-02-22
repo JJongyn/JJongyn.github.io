@@ -15,20 +15,24 @@ Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and E
 
 1. **J. Shin**, S. Han, and J. Kim, ["Cooperative meta-learning with gradient augmentation,"](https://arxiv.org/abs/2406.04639) in Uncertainty in Artificial Intelligence (**UAI** - acceptance rate of 27%). PMLR, 2024 [[paper]](https://arxiv.org/abs/2406.04639) [[code]](https://github.com/JJongyn/CML)
 
-2. **J. Shin**, H. Lee, and J. Kim, "Context-based prompt tuning for pretrained language model via test-time adaptation," in the International Conference on Computational Linguistics (**COLING**), 2025 (_Under Review_)
+2. **J. Shin**, S. An, and J. Kim, "ESFP: Effective Soft Prompt Fine-Tuning using Parameter-efficient Mixture-of-Experts," in the International Conference on Computational Linguistics (**COLING**), 2025 (_Under Review_)
+ 
+3. **J. Shin**, H. Lee, and J. Kim, "Context-based prompt tuning for pretrained language model via test-time adaptation," in the Uncertainty in Artificial Intelligence (**UAI**), 2025 (_Under Review_)
 
-3. **J. Shin**, J. Kim, and J. Kim, "Entropy-guided meta-initialization regularization for few-shot text classification," in ACM International Conference on Web Search and Data Mining (**WSDM**), 2025 (_Under Review_)
+4. **J. Shin**, J. Kim, and J. Kim, "Entropy-guided meta-initialization regularization for few-shot text classification," in ACM International Conference on Web Search and Data Mining (**WSDM**), 2025 (_Under Review_)
 
-4. H. Cho, **J. Shin**, and J. Kim, "Quantized Contrastive Unlearning," in The Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (_Under Review_)
+5. H. Cho, **J. Shin**, and J. Kim, "Quantized Contrastive Unlearning," in The Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (_Under Review_)
 
-5. J. Kim, **J. Shin**, and J. Kim, "Exploring Diverse Sparse Network Structures via Dynamic pruning with Weight Alignment," in International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025 (_Under Review_)
+6. J. Kim, **J. Shin**, and J. Kim, "Exploring Diverse Sparse Network Structures via Dynamic pruning with Weight Alignment," in Uncertainty in Artificial Intelligence (**UAI**), 2025 (_Under Review_)
 
-6. D. Lee, **J. Shin**, and J. Kim, "Weight initialization based on gradient similarity for versatile machine unlearning," in The Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (_Under Review_)
+7. D. Lee, **J. Shin**, and J. Kim, "Weight initialization based on gradient similarity for versatile machine unlearning," in The Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (_Under Review_)
 
 ### International Journal
 1. S. An, **J. Shin**, and J. Kim, "Quantization-aware training with dynamic and static pruning," in Institute of Electrical and Electronics Engineers (**IEEE Access**), 2024 (_Under Review_)
 
 ## 🏆 Awards
+* Outstanding Talent Award (M.Sc.) in Computer Science 🏆, Kookmin University (Feb 2025)
+
 * Best Graduate Student Thesis-Based IP Creation Award 🏆, Kookmin University (Aug 2024)
 
 * International Collegiate EV Autonomous Driving Competition 🥇, International e-Mobility Expo, World Council for e-Mobility (May 2024)
