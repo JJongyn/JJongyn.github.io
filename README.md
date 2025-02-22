@@ -15,7 +15,7 @@ Hi, I'm Jongyoon Shin. After completing my Bachelor's degree in Electrical and E
 
 1. **J. Shin**, S. Han, and J. Kim, ["Cooperative meta-learning with gradient augmentation,"](https://arxiv.org/abs/2406.04639) in Uncertainty in Artificial Intelligence (**UAI** - acceptance rate of 27%). PMLR, 2024 [[paper]](https://arxiv.org/abs/2406.04639) [[code]](https://github.com/JJongyn/CML)
 
-2. **J. Shin**, S. An, and J. Kim, "ESFP: Effective Soft Prompt Fine-Tuning using Parameter-efficient Mixture-of-Experts," in the International Conference on Computational Linguistics (**COLING**), 2025 (_Under Review_)
+2. **J. Shin**, S. An, and J. Kim, "ESFP: Effective Soft Prompt Fine-Tuning using Parameter-efficient Mixture-of-Experts," in the International Conference on Machine Learning (**ICML**), 2025 (_Under Review_)
  
 3. **J. Shin**, H. Lee, and J. Kim, "Context-based prompt tuning for pretrained language model via test-time adaptation," in the Uncertainty in Artificial Intelligence (**UAI**), 2025 (_Under Review_)
 
